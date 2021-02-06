@@ -69,3 +69,10 @@ header {
     margin-bottom: 120px;
     width: 100%;
 }
+
+.social {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-img {}
